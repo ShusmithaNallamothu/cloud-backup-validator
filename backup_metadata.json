@@ -1,0 +1,10 @@
+[
+    {
+        "filename": "sample.txt",
+        "timestamp": "2026-02-22 18:58:21",
+        "original_hash": "cd9453aa723ab850770d38103a446f5ed3be451de677bdd9c41e87b27408fb51",
+        "restored_hash": "cd9453aa723ab850770d38103a446f5ed3be451de677bdd9c41e87b27408fb51",
+        "recovery_time_seconds": 0.628,
+        "status": "Verified"
+    }
+]
